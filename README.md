@@ -10,5 +10,6 @@ Test Weather is a simple Android app designed for testing purposes.
 
 ## ScreenShot
 
-![Screenshot_2023-11-28-21-35-46-950_com kiraieee test_weather](https://github.com/KiraiEEE/test_weather/assets/54278089/2a286c89-b1ea-49d5-9cf2-0ea4cb9f8d28)
 
+
+<img src="https://github.com/KiraiEEE/test_weather/assets/54278089/2a286c89-b1ea-49d5-9cf2-0ea4cb9f8d28" alt="Weather App Screenshot" width="300"/>
