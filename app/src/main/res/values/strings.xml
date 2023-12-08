@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">test_weather</string>
+    <string name="app_name">Rain+</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="about">About</string>
 </resources>

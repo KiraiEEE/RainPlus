@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -6,7 +5,7 @@
 
     <EditText
         android:id="@+id/editTextCity"
-        android:layout_width="match_parent"
+        android:layout_width="319dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
         android:hint="Enter city name"
@@ -69,5 +68,25 @@
         android:layout_marginTop="16dp"
         android:text=""
         android:textSize="18sp" />
+
+    <!-- Add this ImageView for the menu icon -->
+    <ImageView
+        android:id="@+id/menuIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="16dp"
+        android:src="@android:drawable/ic_menu_more"
+        android:clickable="true"/>
+    <!-- Add this Button for saving data -->
+    <Button
+        android:id="@+id/buttonSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textViewWindSpeed"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:text="Save" />
 
 </RelativeLayout>
