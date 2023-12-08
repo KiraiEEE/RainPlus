@@ -1,7 +1,7 @@
-# Weather App
+# Rain+
 
 ## Overview
-Test Weather is a simple Android app designed for testing purposes.
+Rain+ Made it easier to save your weather needs for a dataset.
 
 ## Technologies
 
@@ -11,5 +11,4 @@ Test Weather is a simple Android app designed for testing purposes.
 ## ScreenShot
 
 
-
-<img src="https://github.com/KiraiEEE/test_weather/assets/54278089/2a286c89-b1ea-49d5-9cf2-0ea4cb9f8d28" alt="Weather App Screenshot" width="300"/>
+<img src="https://github.com/KiraiEEE/RainPlus/assets/54278089/b54bb3f7-2018-4c15-b793-14b0f448ee08" alt="Weather App Screenshot" width="300"/>
